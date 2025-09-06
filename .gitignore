@@ -148,3 +148,6 @@ $RECYCLE.BIN/
 
 # EAS
 eas.json
+
+# Bolt
+.bolt/
